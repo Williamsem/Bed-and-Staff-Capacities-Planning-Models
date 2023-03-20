@@ -27,10 +27,10 @@ Access the two jupyter notebook and run the code. There are two jupyter notebook
 
 ### Excel Model
 Open and Save the Excel File. 
-The deterministic model can be found in the `Deterministic' worksheet, with the stochastic model being found in the `Stochastic' worksheet.
+The deterministic model can be found in the `Deterministic` worksheet, with the stochastic model being found in the `Stochastic` worksheet.
 To run either of the two models:
-  1. Select the Data ribbon on the top of the sheet.
-  2. Select the `Solve' button on the OpenSolver section.
+  1. Select the `Data` ribbon on the top of the sheet.
+  2. Select the `Solve` button on the OpenSolver section.
   3. The model will output the results into the worksheet.
   
 
