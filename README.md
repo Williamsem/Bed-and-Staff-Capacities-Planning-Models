@@ -21,9 +21,11 @@ This project requires `OpenSolver` to run. Download the correct version of `Open
 ## Usage
 
 ### Python Model
-Access the two jupyter notebook and run the code. There are two jupyter notebooks:
-  1. `Bed and Staff Planning Model - Deterministic.ipynb` - contains the determinisitic model. 
-  2. `Bed and Staff Planning Model - Stochastic.ipynb` - contains the stochastic model.
+Access the jupyter notebook and run the code. There are four jupyter notebooks:
+  1. `Bed-and-Staff-Capacities-Planning-Models/Python Tools/Blank Models/Deterministic - blank.ipynb` - contains an empty version of the determinisitic model. 
+  2. `Bed-and-Staff-Capacities-Planning-Models/Python Tools/Blank Models/Two-Stage Stochastic - blank.ipynb` - contains an empty version of the stochastic model.
+  3. `Bed-and-Staff-Capacities-Planning-Models/Python Tools/Implementation - Examples/Deterministic - Worked Example.ipynb` - contains a worked example of the determinisitic model. 
+  4. `Bed-and-Staff-Capacities-Planning-Models/Python Tools/Implementation - Examples/Stochastic - Worked Example.ipynb` - contains a worked example of the stochastic model. 
 
 ### Excel Model
 Open and Save the Excel File. 
