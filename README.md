@@ -1,5 +1,5 @@
 # Bed and Staff Capacities Planning Models
-This is a repository of the files for the project entitled 'Whole Systems Simulation Modelling to Support Clinical Futures'.
+This is a repository of the files for the project entitled 'Linking Predictive and Prescriptive Analytics For Modelling Healthcare Services for Frail and Elderly Patients'.
 
 ## Installation
 
@@ -12,8 +12,9 @@ git clone https://github.com/Williamsem/Bed-and-Staff-Capacities-Planning-Models
 This project needs `PuLP` to run. Download the correct version of `PuLP` by running the following line in the terminal:
 
 ```bash
-$ python -m pip install pulp==2.3
+$ python -m pip install -r requirements.txt
 ```
+Note Gurobi requires an external license to be used.
 
 ### Excel Dependency
 This project requires `OpenSolver` to run. Download the correct version of `OpenSolver` from the following link: https://opensolver.org/installing-opensolver/
